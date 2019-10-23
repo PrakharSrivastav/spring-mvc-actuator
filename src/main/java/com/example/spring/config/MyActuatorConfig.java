@@ -1,6 +1,7 @@
 package com.example.spring.config;
 
 import org.springframework.boot.actuate.autoconfigure.*;
+import org.springframework.context.annotation.AutoProxyRegistrar;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.PropertySource;
